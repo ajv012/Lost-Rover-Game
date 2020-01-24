@@ -1,0 +1,2 @@
+# Lost-Rover-Game
+This is a lost rover game I developed recently. You went to MarsYou travelled to an unknown universe on your ship, but unfortunately crash landed on one of the planets in the universe. All of your ship components (wheels, cabin, tail, wings, exhaust engine) are broken and need to be fixed because you need to return home to attend your CSCI 204 class. However to fix the ship components, you need to travel to nearby universes (via the portal system) to collect the items required for each task.
