@@ -19,3 +19,5 @@ However, here's the catch:
 2. Every 100 steps that your rover takes, a fixed object will be broken (oops you spent too much time looking for the parts)
 
 Main data structures used: arrays, linked lists, circular linked lists, stacks, queues
+
+# Note: My work is found in Game.py. The files graphics.py and gameboard.py are supplementary files.
